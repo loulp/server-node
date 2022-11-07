@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "name",
+    "description": "description",
+    "img": "https://www.okvoyage.com/wp-content/uploads/2021/02/paysages-norvege-scaled.jpeg",
+    "longitude": "47.199724",
+    "latitude": "-1.572960"
+  },
+  {
+    "id": 2,
+    "name": "point",
+    "description": "point of interest",
+    "img": "https://www.okvoyage.com/wp-content/uploads/2021/02/paysages-norvege-scaled.jpeg",
+    "longitude": "47.199724",
+    "latitude": "-1.572960"
+  },
+  {
+    "id": 3,
+    "name": "interest",
+    "description": "Nice landscape",
+    "img": "https://www.okvoyage.com/wp-content/uploads/2021/02/paysages-norvege-scaled.jpeg",
+    "longitude": "47.199724",
+    "latitude": "-1.572960"
+  }
+]
